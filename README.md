@@ -1,16 +1,143 @@
-## Hi there 👋
+# Hi, I'm Mahamudul Hasan Naiem 👋
 
-<!--
-**mahamudul75/mahamudul75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about **DevOps, Cloud Infrastructure, Automation, and Software Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building my skills through hands-on practice with Linux, Git, Docker, Cloud, Kubernetes, and CI/CD.
+
+---
+
+## 🚀 Currently Learning
+
+- Linux & Bash
+- Git & GitHub
+- Docker & Containers
+- AWS & Cloud Computing
+- Microsoft Azure
+- Kubernetes
+- Jenkins
+- CI/CD & GitHub Actions
+- Networking & DevOps Fundamentals
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- JavaScript
+- Bash
+
+**DevOps & Cloud**
+- Linux
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- AWS
+- Microsoft Azure
+- GitHub Actions
+
+**Development**
+- React
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+## 📌 Featured Projects
+
+- **Campus Ride Sharing** — Web-based ride-sharing project
+- **Git & GitHub Practice** — Branching, merging, SSH, remote repositories and Git workflows
+- **DevOps Practice** — Linux, Git, Docker and CI/CD hands-on projects
+
+---
+
+## 📈 My Goal
+
+To become a skilled **DevOps Engineer** by continuously improving my knowledge of cloud infrastructure, automation, CI/CD, containers, Kubernetes, and reliable software delivery.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [@mahamudul75](https://github.com/mahamudul75)
+
+---
+
+⭐ Thanks for visiting my profile!# Hi, I'm Mahamudul Hasan Naiem 👋
+
+### Software Engineering Student | Aspiring DevOps Engineer
+
+I'm a Software Engineering student passionate about **DevOps, Cloud Infrastructure, Automation, and Software Engineering**.
+
+Currently, I'm building my skills through hands-on practice with Linux, Git, Docker, Cloud, Kubernetes, and CI/CD.
+
+---
+
+## 🚀 Currently Learning
+
+- Linux & Bash
+- Git & GitHub
+- Docker & Containers
+- AWS & Cloud Computing
+- Microsoft Azure
+- Kubernetes
+- Jenkins
+- CI/CD & GitHub Actions
+- Networking & DevOps Fundamentals
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- JavaScript
+- Bash
+
+**DevOps & Cloud**
+- Linux
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- AWS
+- Microsoft Azure
+- GitHub Actions
+
+**Development**
+- React
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+## 📌 Featured Projects
+
+- **Campus Ride Sharing** — Web-based ride-sharing project
+- **Git & GitHub Practice** — Branching, merging, SSH, remote repositories and Git workflows
+- **DevOps Practice** — Linux, Git, Docker and CI/CD hands-on projects
+
+---
+
+## 📈 My Goal
+
+To become a skilled **DevOps Engineer** by continuously improving my knowledge of cloud infrastructure, automation, CI/CD, containers, Kubernetes, and reliable software delivery.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [@mahamudul75](https://github.com/mahamudul75)
+
+---
+
+⭐ Thanks for visiting my profile!
